@@ -79,7 +79,6 @@ ritika = {
 ### 🤖 Additional Skills
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompting-AI-6E44FF?style=for-the-badge&logo=openai&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 *AI prompting techniques and video-editing skills.*
 
