@@ -97,6 +97,8 @@ I'm always open to:
 - 📚 Study groups and peer learning
 - 🌟 Open source contributions
 
+- stay connected;)
+
 ---
 
 <div align="center">
