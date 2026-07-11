@@ -2,7 +2,7 @@
 
 # Heyy!🌸 I'm Ritika Tiwari..⭐
 
-# 🤖 AI & Data Science Student · builder · Explorer
+# 👤📈 AI & Data Science Student · builder · Explorer
 
 *"Turning data into decisions, and ideas into intelligent systems."*
 
