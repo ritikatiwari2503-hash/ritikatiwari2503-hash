@@ -29,27 +29,59 @@ ritika = {
 
 ## Skills
 
-**Languages & Core**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Skills-000000?style=for-the-badge" alt="Skills"/>
+</p>
+
+---
+
+### 🧠 Languages & Core
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-& Prompting and video-editing.
-**AI / Data Tools**
+
+*Core programming and web languages used for scripting, logic, styling, and querying data.*
+
+---
+
+### 📊 Data Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+*Environments and applications used for data exploration, analysis, and reporting.*
+
+---
+
+### 🐍 Python Libraries
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-**Tools & Platforms**
+*Libraries used within Python for numerical computation, data manipulation, and visualization.*
+
+---
+
+### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+*Version control and development tools used across projects.*
+
+---
+
+### 🤖 Additional Skills
+
+![Prompt Engineering](https://img.shields.io/badge/Prompting-AI-6E44FF?style=for-the-badge&logo=openai&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+*AI prompting techniques and video-editing skills.*
 
 ---
 **CERTIFICATIONS & Acheivements**
