@@ -35,7 +35,7 @@ ritika = {
 
 ---
 
-### 🧠 Languages & Core for Data science and AI (also backend)
+###  Languages & Core for Data science and AI (also backend)
 
 🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ###  Python Libraries🌸🌟
@@ -49,8 +49,9 @@ ritika = {
 ---
 
 ### 🛢 Databases:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Tools
 
