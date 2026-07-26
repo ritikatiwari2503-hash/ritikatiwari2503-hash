@@ -24,7 +24,7 @@ ritika = {
     "motto"       : "Stay curious. Build boldly."
 }
 ```
-blob:https://claude.ai/6a953cc0-e6ec-4fa3-92cd-e424df9c4b79
+
 
 ---
 
