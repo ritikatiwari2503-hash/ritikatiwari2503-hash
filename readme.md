@@ -6,10 +6,9 @@
 
 *"Turning data into decisions, and ideas into intelligent systems."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikatiwari2503)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash)
-[![Repositories](https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=github&logoColor=white)](https://linkedin.com/in/ritikatiwari2503)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-4CAF50?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
 </div>
 
 ---
