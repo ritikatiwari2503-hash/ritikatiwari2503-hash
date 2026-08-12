@@ -9,6 +9,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=github&logoColor=white)](https://linkedin.com/in/ritikatiwari2503)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash)
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-4CAF50?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
+
+[<img src="./assets/linkedin.svg" width="260">](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[<img src="./assets/github.svg" width="260">](https://github.com/ritikatiwari2503-hash)
+[<img src="./assets/repositories.svg" width="260">](https://github.com/ritikatiwari2503-hash?tab=repositories)
+
 </div>
 
 ---
