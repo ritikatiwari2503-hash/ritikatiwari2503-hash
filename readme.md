@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikatiwari2503)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash)
-![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=ritikatiwari2503-hash&repo=Peridot)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
 
 </div>
 
