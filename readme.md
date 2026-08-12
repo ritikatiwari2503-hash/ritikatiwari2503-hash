@@ -31,7 +31,9 @@ Tech Tools ->
 </div>
 
 ```{
+
 Ritika Tiwari @IIT, Madras
+
 Student research intern @IIT, Ropar (Vled)
     "Institute"               : "IIT Madras (IITM) — BS in Data Science & AI",
     "focus"                   : ["Artificial Intelligence", "Data Science", "Machine Learning"],
