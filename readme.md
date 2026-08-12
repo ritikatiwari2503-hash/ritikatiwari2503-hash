@@ -11,7 +11,7 @@
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-4CAF50?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
 
 </div>
-
+Tech Tools ->
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=py,mysql,html,css,js,vscode)
@@ -22,6 +22,7 @@
 
 </div>
 
+
 ## 🌸 About Me ⭐
 <div align="center">
 
@@ -30,12 +31,12 @@
 </div>
 
 ```{
-Ritika = {
-    "name"        : "Ritika Tiwari",
-    "institute"   : "IIT Madras (IITM) — BS in Data Science & AI",
-    "focus"       : ["Artificial Intelligence", "Data Science", "Machine Learning"],
-    "currently"   : "Building projects · Learning every day · Open to collaborate",
-    "motto"       : "Stay curious. Build boldly."
+Ritika Tiwari @IIT, Madras
+Student research intern @IIT, Ropar (Vled)
+    "Institute"               : "IIT Madras (IITM) — BS in Data Science & AI",
+    "focus"                   : ["Artificial Intelligence", "Data Science", "Machine Learning"],
+    "currently"               : "Building projects · Learning every day · Open to collaborate",
+    "motto"                   : "Stay curious. Build boldly."
 }
 ```
 
