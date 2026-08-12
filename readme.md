@@ -45,7 +45,7 @@ Student research intern @IIT, Ropar (Vled)
 
 ---
 
-## Skills
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Skills-000000?style=for-the-badge" alt="Skills"/>
