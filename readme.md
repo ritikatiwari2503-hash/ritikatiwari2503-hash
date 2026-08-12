@@ -1,6 +1,6 @@
 <div align="center">
 
-# Heyy!🌸 I'm Ritika Tiwari..⭐
+# Heyy !!🌸I'm Ritika Tiwari..⭐
 
 # 👤📈 AI & Data Science Student · builder · Explorer
 
@@ -10,18 +10,27 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash)
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-4CAF50?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
 
-[<img src="./assets/linkedin.svg" width="260">](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[<img src="./assets/github.svg" width="260">](https://github.com/ritikatiwari2503-hash)
-[<img src="./assets/repositories.svg" width="260">](https://github.com/ritikatiwari2503-hash?tab=repositories)
+</div>
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,mysql,html,css,js,vscode)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48">
+<img src="https://img.icons8.com/color/96/matplotlib.png" width="48">
+<img src="https://img.icons8.com/color/96/ms-excel.png" width="48">
 
 </div>
 
----
+## 🌸 About Me ⭐
+<div align="center">
 
-## 🌸 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Heyy!+I'm+Ritika+Tiwari..;AI+%26+Data+Science+Student;Builder+%C2%B7+Explorer+%C2%B7+Developer)](https://git.io/typing-svg)
 
-```python
-ritika = {
+</div>
+
+```{
+Ritika = {
     "name"        : "Ritika Tiwari",
     "institute"   : "IIT Madras (IITM) — BS in Data Science & AI",
     "focus"       : ["Artificial Intelligence", "Data Science", "Machine Learning"],
