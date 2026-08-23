@@ -6,7 +6,7 @@
 
 *"Turning data into decisions, and ideas into intelligent systems."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=github&logoColor=white)](https://linkedin.com/in/ritikatiwari2503)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=github&logoColor=white)](https://linkedin.com/in/ritika-tiwari-723b98370)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash)
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-4CAF50?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
 
