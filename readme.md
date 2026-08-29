@@ -62,8 +62,6 @@ Student research intern @IIT, Ropar (Vled)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-*Libraries used within Python for numerical computation, data manipulation, and visualization.*
-
 ---
 
 ### 🛢 Databases:
@@ -78,7 +76,6 @@ Student research intern @IIT, Ropar (Vled)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-*Core programming and web languages used for scripting, logic, styling, and querying data.*
 ---
 
 ### 📊 Data Tools
@@ -87,8 +84,6 @@ Student research intern @IIT, Ropar (Vled)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-*Environments and applications used for data exploration, analysis, and reporting.*
 
 
 ### 🛠️ Dev Tools 
@@ -99,15 +94,11 @@ Student research intern @IIT, Ropar (Vled)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-*Version control and development tools used across projects.*
-
 ---
 
 ### 🤖 Additional Skills
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompting-AI-6E44FF?style=for-the-badge&logo=openai&logoColor=white)
-
-*AI prompting techniques and video-editing skills.*
 
 ---
 **CERTIFICATIONS & Acheivements**
