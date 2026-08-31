@@ -26,7 +26,7 @@ Tech Tools ->
 ## 🌸 About Me ⭐
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Heyy!+I'm+Ritika+Tiwari..;AI+%26+Data+Science+Student;Developer+%C2%B7+Explorer+%C2%B7+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Heyy!+I'm+Ritika+Tiwari..;AI+%26+Data+Science+Student;Developer+%C2%B7+Explorer)](https://git.io/typing-svg)
 
 </div>
 
