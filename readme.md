@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:00ff87&height=120&section=header" width="100%"/>
 <div align="center">
 
 # Heyy !!🌸I'm Ritika Tiwari..⭐
