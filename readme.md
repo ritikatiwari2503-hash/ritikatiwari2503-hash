@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:00ff87&height=120&section=header" width="100%"/>
-<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,50:FF6FD8,100:C9184A&height=120&section=header" width="100%"/>
 # Heyy !!🌸I'm Ritika Tiwari..⭐
 
 # 👤📈 AI & Data Science Student · developer · Explorer
