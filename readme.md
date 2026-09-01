@@ -97,6 +97,11 @@ Student research intern @IIT, Ropar (Vled)
 
 ---
 
+### 🎨 Design Tools:
+
+<img src="https://img.shields.io/badge/Adobe-ED2224?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-8B3DFF?style=for-the-badge&logo=canva&logoColor=white"/>
+
+---
 ### 🤖 Additional Skills
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompting-AI-6E44FF?style=for-the-badge&logo=openai&logoColor=white)
