@@ -1,6 +1,8 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,50:FF6FD8,100:C9184A&height=120&section=header" width="100%"/>
-# Heyy !!🌸I'm Ritika Tiwari..⭐
+
+<div align="center">
+
+### Heyy !!🌸I'm Ritika Tiwari..⭐
 
 # 👤📈 AI & Data Science Student · developer · Explorer
 
@@ -10,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash)
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-4CAF50?style=plastic&logo=github&logoColor=white)](https://github.com/ritikatiwari2503-hash?tab=repositories)
 
+</div>
 </div>
 Tech Tools ->
 <div align="center">
