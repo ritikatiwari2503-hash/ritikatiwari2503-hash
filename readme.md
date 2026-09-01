@@ -118,9 +118,10 @@ Student research intern @IIT, Ropar (Vled)
 
 <img src="https://github-readme-stats-sooty-theta.vercel.app/api?username=ritikatiwari2503-hash&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/> <img src="https://streak-stats.demolab.com/?user=ritikatiwari2503-hash&theme=radical&hide_border=true&ring=FFA500&fire=FF4500&currStreakNum=FFD700" width="48%"/>
 
-<img src="https://github-readme-stats-sooty-theta.vercel.app/api/top-langs/?username=ritikatiwari2503-hash&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats-sooty-theta.vercel.app/api/top-langs/?username=ritikatiwari2503-hash&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="300"/>
 
 ---
+
 
 
 **CERTIFICATIONS & Acheivements**
@@ -138,7 +139,3 @@ I'm always open to:
 - 🌟 Open source contributions
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" />
-</div>
