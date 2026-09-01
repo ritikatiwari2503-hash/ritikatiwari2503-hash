@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Heyy !!🌸I'm Ritika Tiwari..⭐
+# Heyy !!🌸I'm Ritika Tiwari..⭐
 
 # 👤📈 AI & Data Science Student · developer · Explorer
 
